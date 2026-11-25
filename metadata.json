@@ -1,0 +1,6 @@
+{
+  "name": "Fábrica de Embutidos 3D - Rotina Sanitária",
+  "description": "Jogo educativo 3D interativo em Three.js sobre Boas Práticas de Fabricação (BPF), barreira sanitária, controle térmico e PPHO em uma agroindústria de embutidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
